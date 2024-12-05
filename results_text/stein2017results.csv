@@ -1,0 +1,4 @@
+References,Interventions,Main race,Diagnosis criteria,Sponsor,Sample size,Female (%),Mean HAMA,Mean age (Year),Attrition rate (%),Follow-up time (weeks)
+"Stein et al., 2017",agomelatine: 10 mg/day,True,True,True,True,True,True,True,True,True
+"Stein et al., 2017",placebo,True,True,True,True,False,True,True,True,True
+"Stein et al., 2017",agomelatine: 25 mg/day,True,True,True,True,False,True,True,True,True
