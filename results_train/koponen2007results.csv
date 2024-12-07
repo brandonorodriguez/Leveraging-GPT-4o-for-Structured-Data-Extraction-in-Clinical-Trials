@@ -1,0 +1,4 @@
+References,Interventions,Main race,Diagnosis criteria,Sponsor,Sample size,Female (%),Mean HAMA,Mean age (Year),Attrition rate (%),Follow-up time (weeks)
+"Koponen et al., 2007",duloxetine: 60 mg/day,False,True,True,True,False,True,False,False,True
+"Koponen et al., 2007",placebo,False,True,True,True,False,True,True,False,True
+"Koponen et al., 2007",duloxetine: 120 mg/day,False,True,True,True,False,True,True,False,True
