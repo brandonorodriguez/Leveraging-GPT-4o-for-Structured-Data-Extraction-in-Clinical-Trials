@@ -1,0 +1,5 @@
+References,Interventions,Main race,Diagnosis criteria,Sponsor,Sample size,Female (%),Mean HAMA,Mean age (Year),Attrition rate (%),Follow-up time (weeks)
+"Kasper et al., 2014",paroxetine: 20 mg/day,True,False,True,True,True,True,True,True,True
+"Kasper et al., 2014",silexan: 80 mg/day,True,False,True,True,True,True,True,True,True
+"Kasper et al., 2014",silexan: 160 mg/day,True,False,True,True,True,True,True,True,True
+"Kasper et al., 2014",placebo,True,False,True,True,True,True,True,True,True

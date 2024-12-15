@@ -1,0 +1,5 @@
+References,Sample size,Interventions,Main race,Female (%),Mean HAMA,Mean age (Year),Attrition rate (%),Sponsor,Follow-up time (weeks),Diagnosis criteria
+"Merideth et al., 2011",854,quetiapine: 150 mg/day,White,68,25.0,38.2,28.8,AstraZeneca Pharmaceuticals,10,dsm-iv-tr
+"Merideth et al., 2011",854,quetiapine: 300 mg/day,White,71,25.2,39.0,39.1,AstraZeneca Pharmaceuticals,10,dsm-iv-tr
+"Merideth et al., 2011",854,escitalopram: 10 mg/day,White,66,24.6,40.4,27.7,AstraZeneca Pharmaceuticals,10,dsm-iv-tr
+"Merideth et al., 2011",854,placebo,White,64,25.3,36.6,21.4,AstraZeneca Pharmaceuticals,10,dsm-iv-tr
