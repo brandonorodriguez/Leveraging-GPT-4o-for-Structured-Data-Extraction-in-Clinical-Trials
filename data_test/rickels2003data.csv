@@ -1,0 +1,4 @@
+References,Sample size,Interventions,Main race,Female (%),Mean HAMA,Mean age (Year),Attrition rate (%),Sponsor,Follow-up time (weeks),Diagnosis criteria
+"Rickels et al., 2003",566,paroxetine: 20 mg/day,White,54,24.1,40.2,23.9,GlaxoSmithKline,8,dsm-iv
+"Rickels et al., 2003",566,paroxetine: 40 mg/day,White,56,23.8,40.5,27.4,GlaxoSmithKline,8,dsm-iv
+"Rickels et al., 2003",566,placebo,White,56,24.4,40.8,22.2,GlaxoSmithKline,8,dsm-iv

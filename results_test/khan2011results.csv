@@ -1,0 +1,5 @@
+References,Interventions,Main race,Diagnosis criteria,Sponsor,Sample size,Female (%),Mean HAMA,Mean age (Year),Attrition rate (%),Follow-up time (weeks)
+"Khan et al., 2011",quetiapine: 150 mg/day,True,True,True,True,True,True,True,False,False
+"Khan et al., 2011",quetiapine: 300 mg/day,True,True,True,True,True,True,True,False,False
+"Khan et al., 2011",quetiapine: 50 mg/day,True,True,True,True,True,True,True,False,False
+"Khan et al., 2011",placebo,True,True,True,True,True,True,True,False,False
