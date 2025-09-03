@@ -1,4 +1,5 @@
 # Leveraging GPT-4o for Structured Data Extraction in Clinical Trials: Accuracy, Efficiency, and Research Implications
+The website for this page (hosting the final PDF report), can be found at [brandonorodriguez.github.io/Leveraging-GPT-4o-for-Structured-Data-Extraction-in-Clinical-Trials/GPTProjectPaperFinal.pdf](https://brandonorodriguez.github.io/Leveraging-GPT-4o-for-Structured-Data-Extraction-in-Clinical-Trials/GPTProjectPaperFinal.pdf) <br>
 I created this project myself from Nov-Dec using JupyterLab <br>
 The data citation and full formal report is in __GPTProjectPaperFinal.pdf__ <br>
 The Jupyter Notebooks used to extract all data is in __Test_Data_Extraction.ipynb__ and __Train_Data_Extraction.ipynb__ <br>
