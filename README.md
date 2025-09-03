@@ -7,4 +7,3 @@ The Jupyter Notebooks used to summarize all accuracy metrics are in __Test_Data_
 The raw output parsed into csv files, is in __/test_data__ and __/train_data__ <br>
 The final scored csv files for each study are in __/test_results__ and __/train_results__ <br>
 The manually extracted datasets used to score the csv files are in __/results_excel__ <br>
-The website for this page (hosting the final PDF report), can be found at [brandonorodriguez.github.io/Leveraging-GPT-4o-for-Structured-Data-Extraction-in-Clinical-Trials/GPTProjectPaperFinal.pdf](https://brandonorodriguez.github.io/Leveraging-GPT-4o-for-Structured-Data-Extraction-in-Clinical-Trials/GPTProjectPaperFinal.pdf) 
